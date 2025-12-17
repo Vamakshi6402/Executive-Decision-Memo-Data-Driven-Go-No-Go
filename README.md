@@ -75,3 +75,7 @@ This project illustrates the core value-add of a Senior Economist:
 
 This is the distinction between producing analyses and **owning decisions**.
 
+---
+
+**Prepared by Vamakshi Chaturvedi.**
+
